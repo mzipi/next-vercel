@@ -1,5 +1,5 @@
-class Car extends React.Component {
-    render() {
-      return <h2>Hi, I am a Car!</h2>;
-    }
-  }
+function About() {
+    return <div>About</div>
+}
+  
+export default About
